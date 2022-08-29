@@ -51,6 +51,7 @@
 
 <a href="https://www.linkedin.com/in/alier-philip-maguet-b11653203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alier%20Philip%20Maguet-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/AlierPM"><img alt="twitter" src="https://img.shields.io/badge/twitter-Alier%20Philip%20Maguet-blue?style=flat-square&logo=twitter"></a>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alierditmaguet@gmail.com)
 
 </p>
 
