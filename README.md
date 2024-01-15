@@ -1,4 +1,5 @@
-<h1 align="center"><span style="color: #4169E1;">Hello There, I'm Alier Philip Maguet - Your Coding Friend! 🪄✨</span></h1>
+<h1 align="center" style="font-size: 2.5em; text-align: center;">Hello There, I'm <img src="https://readme-typing-svg.herokuapp.com?lines=Alier+Philip+Maguet&center=true&width=500&height=50" alt="Alier Philip Maguet Typing"/>Your Coding *Friend*</h1>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -6,41 +7,42 @@
   </a>
 </p>
 
+
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=AlierPM&label=Profile%20views&color=0e75b6&style=plastic" alt="AlierPM" /> 
 </p>
 
 <h3> 🏥✨ &nbsp;From Medicine to Coding</h3>
 
-- 👨‍⚕️ &nbsp; Embarked on a coding odyssey, leaving med school in my second year.
-- 💻 &nbsp; Trading Forex, not with luck, but with the miraculous precision of algorithms.
+👨‍⚕️ &nbsp; Embarked on a coding odyssey, leaving med school in my second year.
+ 💻 &nbsp; Trading Forex, not with luck, but with the miraculous precision of algorithms.
 
 <h3> 🌟💡 &nbsp;Golden Nuggets of Wisdom</h3>
 
-- 🌱 &nbsp; Embrace change and chase your passion; it leads to extraordinary journeys.
-- 💡 &nbsp; Forex taught me precision in decision-making; now, I weave that magic into crafting elegant code.
+🌱 &nbsp; Embrace change and chase your passion; it leads to extraordinary journeys.
+💡 &nbsp; Forex taught me precision in decision-making; now, I weave that magic into crafting elegant code.
 
 <h3> 🛠 &nbsp;Tech Wand Waving</h3>
 
-- 💻 &nbsp; **Backend Miracle Making:**
+ 💻 &nbsp; **Backend Miracle Making:**
   - ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=ruby-on-rails)
   - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   - ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-- 🌐 &nbsp; **Frontend Enchantment:**
+  🌐 &nbsp; **Frontend Enchantment:**
   - ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   - ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 
-- 🔧 &nbsp; **Tools & Version Control Magic:**
+ 🔧 &nbsp; **Tools & Version Control Magic:**
   - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   - ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 
-- 🚀 &nbsp; **Deployment & Collaboration Miracles:**
+ 🚀 &nbsp; **Deployment & Collaboration Miracles:**
   - ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
   - ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
   - ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
