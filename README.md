@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 2.5em; text-align: center;">Hello There, I'm <img src="https://readme-typing-svg.herokuapp.com?lines=Alier+Philip+Maguet&center=true&width=500&height=50" alt="Alier Philip Maguet Typing"/>Your Coding *Friend*</h1>
+<h1 align="center" style="font-size: 2.5em; text-align: center;">Hello There, I'm <img src="https://readme-typing-svg.herokuapp.com?lines=Alier+Philip+Maguet&center=true&width=500&height=50" alt="Alier Philip Maguet Typing"/> <br/>Your Coding *Friend*</h1>
 
 
 <p align="center">
