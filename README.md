@@ -1,14 +1,10 @@
 <h1 align="center"><span style="color: #4169E1;">Hello There, I'm Alier Philip Maguet - Your Coding Friend! 🪄✨</span></h1>
 
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Trading+Forex+with+Algorithmic+Grace;Med+School+Dropout;Ruby+on+Rails+Advocate;Next.js+Devotee;Ever+Curious%2C+Forever+Learning&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Crafting+Code+with+Passion;Ex-Medical+Student+Turned+Tech+Enthusiast;Ruby+on+Rails+Advocate;Next.js+Devotee;Ever+Curious%2C+Forever+Learning&center=true&width=500&height=50">
   </a>
 </p>
-
-<br>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=AlierPM&label=Profile%20views&color=0e75b6&style=plastic" alt="AlierPM" /> 
@@ -16,7 +12,7 @@
 
 <h3> 🏥✨ &nbsp;From Medicine to Coding</h3>
 
-- 👨‍⚕️ &nbsp; Walked away from med school in my second year for the enchantment of code.
+- 👨‍⚕️ &nbsp; Embarked on a coding odyssey, leaving med school in my second year.
 - 💻 &nbsp; Trading Forex, not with luck, but with the miraculous precision of algorithms.
 
 <h3> 🌟💡 &nbsp;Golden Nuggets of Wisdom</h3>
