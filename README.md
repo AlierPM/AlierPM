@@ -46,7 +46,8 @@
   - ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   - ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
 
-<h3> 🌈 &nbsp;GitHub Stats</h3>
+<h3> 📊 &nbsp;GitHub Stats</h3>
+
 
 <a href="https://github.com/AlierPM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlierPM&theme=buefy&show_icons=true" />
