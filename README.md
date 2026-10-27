@@ -1,72 +1,93 @@
-<h1 align="center" style="font-size: 2.5em; text-align: center;">Hello There, I'm <img src="https://readme-typing-svg.herokuapp.com?lines=Alier+Philip+Maguet&center=true&width=500&height=50" alt="Alier Philip Maguet Typing"/> <br/>Your Coding *Friend*</h1>
+<div align="center">
 
+# Hi, I'm Alier Philip Maguet 👋
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Crafting+Code+with+Passion;Ex-Medical+Student+Turned+Tech+Enthusiast;Ruby+on+Rails+Advocate;Next.js+Devotee;Ever+Curious%2C+Forever+Learning&center=true&width=500&height=50">
-  </a>
-</p>
+### Full-Stack Developer · IT & Network Support · Digital Solutions Builder
 
+**I build practical software and deploy technology that helps people and businesses work better.**
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=AlierPM&label=Profile%20views&color=0e75b6&style=plastic" alt="AlierPM" /> 
-</p>
+📍 Juba, South Sudan &nbsp;·&nbsp; 🌍 Open to remote opportunities and international collaboration
 
-<h3> 🏥✨ &nbsp;From Medicine to Coding</h3>
+[![Portfolio](https://img.shields.io/badge/Explore_Junubweb-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://junubweb.co/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alier-philip-maguet-b11653203/)
+[![GitHub](https://img.shields.io/badge/Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlierPM?tab=repositories)
 
-👨‍⚕️ &nbsp; Embarked on a coding odyssey, leaving med school in my second year.
- 💻 &nbsp; Trading Forex, not with luck, but with the miraculous precision of algorithms.
+</div>
 
-<h3> 🌟💡 &nbsp;Golden Nuggets of Wisdom</h3>
+---
 
-🌱 &nbsp; Embrace change and chase your passion; it leads to extraordinary journeys.
-💡 &nbsp; Forex taught me precision in decision-making; now, I weave that magic into crafting elegant code.
+## 👨‍💻 What I bring to a team
 
-<h3> 🛠 &nbsp;Tech Wand Waving</h3>
+I'm a **full-stack web developer and hands-on IT problem-solver** with experience building applications, working remotely with international developers, and configuring connectivity solutions for businesses.
 
- 💻 &nbsp; **Backend Miracle Making:**
-  - ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=ruby-on-rails)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  - ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+My journey into technology began with a career change from medical studies. I completed **Microverse's 12-month, full-time remote Full-Stack Web Development program** in 2024, collaborating with developers across different countries through pair programming, code reviews, and team projects.
 
-  🌐 &nbsp; **Frontend Enchantment:**
-  - ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+Since **2024**, I've also worked on **business Wi-Fi hotspot configuration and deployment**. Through **[Junubweb](https://junubweb.co/)**, I work on practical digital solutions, websites, and technical support for businesses in South Sudan.
 
- 🔧 &nbsp; **Tools & Version Control Magic:**
-  - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  - ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+**I'm particularly interested in:** Full-Stack Developer, Junior Software Developer, IT Support, Technical Support, and Web Developer opportunities.
 
- 🚀 &nbsp; **Deployment & Collaboration Miracles:**
-  - ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
-  - ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
-  - ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  - ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
+## 🧰 Technical toolkit
 
-<h3> 📊 &nbsp;GitHub Stats</h3>
+| Area | Technologies & capabilities |
+| --- | --- |
+| **Frontend** | JavaScript, React, Redux, HTML5, CSS3, Bootstrap |
+| **Backend** | Ruby, Ruby on Rails, Node.js, Express.js |
+| **Data** | PostgreSQL, SQL, database fundamentals |
+| **Tools & workflow** | Git, GitHub, VS Code, REST APIs, code review, pair programming |
+| **Deployment & operations** | Docker, web hosting, WordPress, troubleshooting |
+| **IT & networking** | MikroTik configuration, business Wi-Fi hotspots, captive portals, access-point setup |
 
+> I value readable code, clear communication, careful troubleshooting, and solutions that are useful beyond the demo.
 
-<a href="https://github.com/AlierPM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlierPM&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlierPM&theme=buefy&layout=compact" />
-</a>
+## 🚀 Selected software projects
 
-<br/>
+These repositories show my development work, from frontend interfaces and API integration to database-backed applications.
 
-<h3> 🌟💫 &nbsp;Connect with Me </h3>
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| **[BlogPress](https://github.com/AlierPM/BlogPress)** | A blog application where readers can interact with posts through likes and comments | Ruby on Rails, RSpec |
+| **[CryptoHub](https://github.com/AlierPM/cryptohub)** | A crypto information interface consuming external APIs for market and news data; includes a [video walkthrough](https://www.loom.com/share/d7fbcfe766bd43b3b3dcdd49d19da78d) | React, Redux, REST APIs |
+| **[Bookstore](https://github.com/AlierPM/bookstore)** | A book management interface with add and remove interactions and state management | React, Redux |
+| **[Space Travelers' Hub](https://github.com/AlierPM/space-travelers--hub)** | A collaborative app using SpaceX data for rocket reservations and mission participation | React, Redux, SpaceX API |
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alier-philip-maguet-b11653203/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alier%20Philip%20Maguet-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="https://twitter.com/AlierPM">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Alier%20Philip%20Maguet-blue?style=flat-square&logo=twitter">
-  </a>
-</p>
+**More code:** [Browse all repositories →](https://github.com/AlierPM?tab=repositories)
 
-⭐️ From [AlierPM](https://github.com/AlierPM)
+## 🌍 Beyond the code
+
+### Junubweb — Digital solutions for businesses
+**Founder / Developer · South Sudan**
+
+Through [Junubweb](https://junubweb.co/), I combine website development, hosting, troubleshooting, and business technology support. I enjoy translating a client's real-world problem into a solution that is maintainable and easy to use.
+
+### Business hotspot & connectivity deployments
+**Hands-on technical experience · Since 2024**
+
+Experience configuring hotspot networks for businesses, including router/access-point setup, captive portal workflows, connectivity troubleshooting, and practical end-user support.
+
+This mix of **software engineering and field IT work** helps me understand both how systems are built and how people use them.
+
+## 🎓 Learning & professional development
+
+- **Microverse — Full-Stack Web Development (2024):** 12-month, full-time remote program with international collaboration, pair programming, and practical software projects.
+- **ALISON — Diploma in Databases:** Database concepts and SQL foundations.
+- **Continuous learning:** Web technologies, IT operations, deployment workflows, and practical business automation.
+
+## 📈 GitHub activity
+
+<div align="center">
+
+![Alier's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlierPM&show_icons=true&hide_border=true&theme=transparent)
+
+</div>
+
+## 🤝 Let's build something useful
+
+I'm open to opportunities where I can contribute code, solve technical problems, support users, and grow with a collaborative team.
+
+**Hiring or working on a project?** Visit [Junubweb](https://junubweb.co/), connect with me on [LinkedIn](https://www.linkedin.com/in/alier-philip-maguet-b11653203/), or explore the [repositories](https://github.com/AlierPM?tab=repositories) above.
+
+<div align="center">
+
+**Build thoughtfully. Solve real problems. Keep learning.**
+
+</div>
